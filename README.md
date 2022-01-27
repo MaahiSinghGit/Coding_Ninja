@@ -2,8 +2,6 @@
   <h1 align="center">Coding Ninjas Java</h1>
 </code>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anmolpant/Coding-Ninjas-Java?logo=github&style=social)](https://github.com/anmolpant/) [![GitHub last commit](https://img.shields.io/github/last-commit/anmolpant/Coding-Ninjas-Java?style=social&logo=git)](https://github.com/anmolpant/) [![GitHub stars](https://img.shields.io/github/stars/anmolpant/Coding-Ninjas-Java?style=social)](https://github.com/anmolpant/Coding-Ninjas-Java/stargazers) [![GitHub forks](https://img.shields.io/github/forks/anmolpant/Coding-Ninjas-Java?style=social&logo=git)](https://github.com/anmolpant/Coding-Ninjas-Java/network)
-
 <p align="center">
   Repository containing my work for the Coding Ninjas Java 2021-22 course, including both Introduction to Java and Data Structures & Algorithms with Java tracks. Can be used as a reference by the ones undertaking the course. Code will be pushed after passing all the test cases.
 </p>
