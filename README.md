@@ -10,11 +10,7 @@
 <img src="https://github.com/anmolpant/Coding-Ninjas-Java/blob/master/assets/CNLOGO.svg" alt="CN"/>
 </p>
 
-![Generic badge](https://img.shields.io/badge/Java-orange)
 
-## Top Language
-
-[![GitHub top language](https://img.shields.io/github/languages/top/anmolpant/Coding-Ninjas-Java?logo=java&style=social)](https://github.com/anmolpant/)
 
 ## Contributing
 
@@ -33,12 +29,12 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Certificates
 
-1. **Certificate 1: [Introduction to Java](http://files.codingninjas.in/certificate119274112587a5d9b820e51e41dddb09a0b9a3d.pdf)**
-2. **Certificate 2: [Introduction to Java Certificate of Excellence](http://files.codingninjas.in/certificate1192741f4116dd26bea4a79c793cdffd450b70a.pdf)**
+1. **Certificate 1: [Introduction to Java](https://certificate.codingninjas.com/view/26a88863f31398d3)**
+2. **Certificate 2: [Introduction to Java Certificate of Excellence](https://certificate.codingninjas.com/view/06dba1750fb76aed)**
 
 ## License
 
- [Manoj Singh](https://github.com/anmolpant/Coding-Ninjas-Java/blob/master/LICENSE)**
+ [Manoj Singh](https://github.com/MaahiSinghGit)
 
 <div align="center">
   <b>Please do ⭐ this repo, if you liked my work.</b>
