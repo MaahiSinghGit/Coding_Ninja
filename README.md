@@ -38,7 +38,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## License
 
-**GNU General Public License v3.0 &copy; [Anmol Pant](https://github.com/anmolpant/Coding-Ninjas-Java/blob/master/LICENSE)**
+ [Manoj Singh](https://github.com/anmolpant/Coding-Ninjas-Java/blob/master/LICENSE)**
 
 <div align="center">
   <b>Please do ⭐ this repo, if you liked my work.</b>
